@@ -1,0 +1,25 @@
+{
+  "name": "genius-blender",
+  "version": "1.0.0",
+  "description": "strip or randomize unwanted annotations inserted by Genius",
+  "main": "genius-blender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vijithassar/genius-blender.git"
+  },
+  "keywords": [
+    "text",
+    "highlight",
+    "random",
+    "annotation",
+    "Genius"
+  ],
+  "author": "Vijith Assar",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/vijithassar/genius-blender/issues"
+  }
+}
