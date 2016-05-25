@@ -12,7 +12,7 @@ stop the Genius web annotator
 To remove Genius annotations, just add this one line of HTML to your post, page, or site:
 
 ```html
-<script type="text/javascript" src="//vijithassar.github.io/genius-blender/genius-blender.js"></script>
+<script type="text/javascript" src="https://vijithassar.github.io/genius-blender/genius-blender.js"></script>
 ```
 
 This should work even if you don't control your own server or content management software, such as with hosted blogging services, so long as the host allows scripts in your content.
@@ -27,7 +27,7 @@ To enable Bonkers Mode, just add a second script with a global variable containi
 
 ```html
 <script type="text/javascript">var genius = {interval: 1000};</script>
-<script type="text/javascript" src="//vijithassar.github.io/genius-blender/genius-blender.js"></script>
+<script type="text/javascript" src="https://vijithassar.github.io/genius-blender/genius-blender.js"></script>
 ```
 
 The interval controls how frequently the annotations will move. It is given in milliseconds, and can be as large as 30000 (thirty seconds) or as small as 500 (half a second). The latter is slow enough to be safe for people with epilepsy.
