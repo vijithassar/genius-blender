@@ -34,7 +34,7 @@ The interval controls how frequently the annotations will move. It is given in m
 
 # Dissemination
 
-Genius could quite easily block the instance of the script I've linked to above from running on their annotation pages, so you are encouraged to host your own copy and share it with anybody who can't do the same. If you [fork this repository on GitHub](#fork-destination-box), a copy will be made available via [GitHub Pages](https://pages.github.com/), located at {your-github-username}.github.io/genius-blender/genius-blender.js. You can also make it a part of your site's build by [installing it from npm](http://www.npmjs.com/package/genius-blender), or you can [download it manually](./genius-blender.js). In any of these scenarios, changing the filename of the script should also make it even harder for Genius to recognize and suppress.
+Genius could quite easily block the instance of the script I've linked to above from running on their annotation pages, so you are encouraged to host your own copy and share it with anybody who can't do the same. You can [fork this repository on GitHub](#fork-destination-box) and make a copy available via [GitHub Pages](https://pages.github.com/) by pushing a branch called "gh-pages" and then load the script from {your-github-username}.github.io/genius-blender/genius-blender.js. You can also make it a part of your site's build by [installing it from npm](http://www.npmjs.com/package/genius-blender), or you can [download it manually](./genius-blender.js). In any of these scenarios, changing the filename of the script should also make it even harder for Genius to recognize and suppress.
 
 There are [absolutely no restrictions](LICENSE) on how you can use this code.
 
